@@ -34,7 +34,7 @@ body {
 }
 
 .form-container {
-    padding: 10vh 20px 6vh 20px;
+    padding: 6vh 20px 6vh 20px;
 }
 
 .form-header {
@@ -74,7 +74,7 @@ form {
 
 .bold {
     font-weight: bolder;
-    font-size: 75px;
+    font-size: 5.5em;
 }
 
 .red {
