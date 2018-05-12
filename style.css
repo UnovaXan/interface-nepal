@@ -5,12 +5,22 @@ body {
     margin: 0;
 }
 
+.logo{
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+}
+
+.logo img {
+    width: 100px;
+}
 .row {}
 
 .center-vertically {
     margin: 0 auto;
     padding-top: 35vh;
 }
+
 
 .side-image {
     background-image: url(img/side-image.png);
