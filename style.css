@@ -125,3 +125,34 @@ form {
 .margin-reduce {
     margin-top: -10px;
 }
+
+.gradient-back {
+    min-height: 100vh;
+    background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+}
+
+i {
+    color: white;
+    font-size: 50px;
+    margin: 20px;
+}
+
+.large-white {
+    font-size: 25px;
+    font-weight:700;
+    text-transform: uppercase;
+    padding: 10px;
+    color: white;
+}
+
+.vertical-center {
+    margin-top: 10vw;
+}
+
+.text-bold {
+    font-weight: 700;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
